@@ -1,0 +1,18 @@
+{
+  "source_repository": "storybookjs/storybook",
+  "source_branch": "master",
+  "source_commit": "9eeb6ddfdd09a64c554843380187d27a41a8a235",
+  "source_path": "addons/knobs",
+  "package_name": "@storybook/addon-knobs",
+  "package_version": "6.2.9",
+  "package_release_git_head": "63c944f232fdfd95daa1da073fc2abc6243194c0",
+  "license": "MIT",
+  "import_mode": "immutable_vendor_snapshot",
+  "destination_path": "vendor/storybook/addon-knobs",
+  "imported_at": "2026-08-09T15:26:00-03:00",
+  "notes": [
+    "Source snapshot follows the user-requested master/addons/knobs tree.",
+    "Do not modernize or rewrite upstream source during ingestion.",
+    "Runtime/adaptation layers must live outside this vendor snapshot."
+  ]
+}
